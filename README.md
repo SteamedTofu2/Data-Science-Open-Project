@@ -1,2 +1,2 @@
 # Data-Science-Open-Project
-Data Science Project asessing hospital readmissions
+Data Science Project assessing hospital readmissions
